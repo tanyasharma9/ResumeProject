@@ -1,0 +1,44 @@
+about:
+  name: Tanya Sharma
+  tagline: Product Manager
+  phone: "520-699-5836"
+  email: tanyasharma@arizona.edu
+  links:
+    - title: /in/tanyasharma-here
+      url: https://www.linkedin.com/in/tanyasharma-here/
+      icon: fab fa-linkedin
+  details: |
+    Experienced Product Analyst with 4+ years of driving end-to-end product development and delivering innovative solutions. Proficient in leading teams through Agile methodologies, roadmap planning, and technical integrations.
+
+
+# skills:
+#   - groupName: Product
+#     list:
+#       - User Empathy, Product Vision, Roadmap Planning
+#       - Prioritization, Prototyping, Defining KPI, 
+#       - Metrics Definition, A/B Testing
+#       - Low-code and Pro-code Product Development, Competitive Analysis
+
+#   - groupName: Core
+#     list:
+#       - Data Visualization, Agile Development
+#       - Cross-functional Leadership, Risk Management
+#       - Process Journey Mapping
+
+#   - groupName: Technical
+#     list:
+#       Power BI, Tableau
+#       Advanced SQL, Java, Python
+#       REST APIs, API Development
+#       MS Visio
+    
+interests:
+  - Roadmap Planning
+  - Integrating technologies
+  - Optimization Problems
+
+certificates:
+  - title: "Project Management Certification"
+    subtitle: PMI
+    date: "2024"
+    link: https://xkcd.com/605/ # This link will be on title level.

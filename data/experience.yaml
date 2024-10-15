@@ -1,0 +1,27 @@
+- company: JerseySTEM
+  roles:
+    - role: Program Manager Intern
+      details: |
+       - Managed JerseySTEM’s internship program, overseeing intern onboarding and compliance across multiple departments, boosting retention by 40% within three months
+       - Increased user adoption by 25% through strategic enhancements in the intern management platform by applying customer-centered design principles
+
+      date: 06.2024 - 08.2024
+
+- company: Optum, UnitedHealth Group Inc
+  page: 1
+  roles: 
+    - role: Technical Product Analyst
+      details: |
+       - Led cross-functional teams to develop and launch sales management application, improving operational efficiency by 30% through strategic roadmap planning of product features
+       - Collaborated with business stakeholders to define users stories, utilized data insights to key drive product decisions 
+       - Gathered and analyzed user behavior and product usage data to identify improvement opportunities, leading to a 30% increase in customer satisfaction through enhanced feature prioritization and training
+       - Designed end-to-end Salesforce integration process, improving user experience by 25% through iterative development and customer-centric design
+      date: 01.2021 - 08.2023
+    
+    - role: Sr Software Developer
+      date: 08.2019 - 12.2020
+      details: |
+       - Identified and led automation of daily batch status reports, saving 550 manhours yearly in one sprint
+       - Enhanced development efficiency by 50% through strategic API redesigns and iterative improvements
+       - Successfully rectified mismatched data in production with advanced SQL queries, achieving a 40% rise in accuracy
+       - Enhanced system security by 30% through vulnerability assessment and remediation efforts on linux servers
